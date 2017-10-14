@@ -42,7 +42,7 @@
 				<key>Id</key>
 				<integer>5</integer>
 				<key>Path</key>
-				<string>layout5.xml.zlib</string>
+				<string>layout12.xml.zlib</string>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -106,7 +106,7 @@
 				<key>Id</key>
 				<integer>12</integer>
 				<key>Path</key>
-				<string>layout12.xml.zlib</string>
+				<string>layout5.xml.zlib</string>
 			</dict>
 		</array>
 		<key>Platforms</key>
@@ -141,7 +141,7 @@
 				<key>Id</key>
 				<integer>5</integer>
 				<key>Path</key>
-				<string>PlatformsM.xml.zlib</string>
+				<string>Platforms12.xml.zlib</string>
 			</dict>
 			<dict>
 				<key>Comment</key>
